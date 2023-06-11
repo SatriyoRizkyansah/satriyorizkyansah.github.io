@@ -9,6 +9,8 @@
 .jumbotron {
   padding-top: 6rem;
   background-color: #e3dec6;
+  /* position: relative;
+  top: -250px; */
 }
 
 #projects {
@@ -17,4 +19,13 @@
 
 section {
   padding-top: 5rem;
+}
+
+.wave-top {
+  position: absolute;
+  top: 35px;
+}
+
+.text-justify {
+  text-align: justify;
 }
